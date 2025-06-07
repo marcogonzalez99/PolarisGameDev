@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/background_image.png" width="640" alt="PolarisKit Title Screen">
+</p>
+
 # 🎮 Studio Generations (WiP)
 
 **Polaris Game Dev Sim** is a game development simulation game, built using **PolarisKit**, a lightweight modular starter kit for building 2D games with Pygame.  
